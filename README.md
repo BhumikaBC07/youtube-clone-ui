@@ -39,7 +39,8 @@ to show deep understanding of core web technologies.
 ## 📸 Screenshots
 
 > Add screenshots here after deploying:
-> [Homepage](<img width="1901" height="961" alt="Screenshot 2026-04-11 165418" src="https://github.com/user-attachments/assets/0c72ce60-2dde-4afc-8b7f-14b952c15237" />
+> ![Homepage](<img width="1901" height="961" alt="YouTube-Clone-Homepage" src="https://github.com/user-attachments/assets/6538a332-a6ce-4fb9-8533-0cc314c137ab" />
+
 )
 
 
