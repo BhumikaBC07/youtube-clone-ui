@@ -6,7 +6,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen)](https://[http://127.0.0.1:8001/youtube.html)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen)](http://127.0.0.1:8001/youtube.html)
+
 
 ---
 
@@ -38,7 +39,7 @@ to show deep understanding of core web technologies.
 ## 📸 Screenshots
 
 > Add screenshots here after deploying:
-> ![Homepage](<img width="1901" height="961" alt="Screenshot 2026-04-11 165418" src="https://github.com/user-attachments/assets/0c72ce60-2dde-4afc-8b7f-14b952c15237" />
+> [Homepage](<img width="1901" height="961" alt="Screenshot 2026-04-11 165418" src="https://github.com/user-attachments/assets/0c72ce60-2dde-4afc-8b7f-14b952c15237" />
 )
 
 
