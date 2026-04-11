@@ -34,7 +34,7 @@ to show deep understanding of core web technologies.
 | Markup    | HTML5 (semantic elements)   |
 | Styling   | CSS3 (Flexbox, Grid, vars)  |
 | Scripts   | Vanilla JavaScript          |
-| Hosting   | Netlify (free tier)         |
+
 
 ## 📸 Screenshots
 
