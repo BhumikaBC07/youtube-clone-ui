@@ -6,7 +6,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen)](http://127.0.0.1:8001/youtube.html)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Here-brightgreen)](https://youtube-clone-ui-indol.vercel.app)
 
 
 ---
@@ -59,7 +59,7 @@ open youtube.html
 - Runs at `http://127.0.0.1:5500`
 
 **Option 3 — Live Demo**
-Visit the deployed version → [Click Here](http://127.0.0.1:8001/youtube.html)
+Visit the deployed version → [Click Here](https://youtube-clone-ui-indol.vercel.app)
 
 ## 💡 What I Learned
 
